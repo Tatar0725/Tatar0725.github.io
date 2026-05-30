@@ -1,0 +1,72 @@
+body{
+    text-align: center !important;
+}
+#game{
+    width: 19rem;
+    height: 19rem;
+    margin: auto;
+    background-color: gray;
+    padding-left: .5rem;
+    padding-top: .5rem;
+}
+.square{
+    width: 4rem;
+    height: 4rem;
+    margin: 0.25rem;
+    float: left;
+    background-color: white;
+    text-align: center;
+}
+.tile{
+    width:4rem;
+    height:4rem;
+    color:aliceblue;
+    text-align: center;
+    padding-top: .5rem;
+    font-size: large;
+    position:absolute;
+}
+.l2{
+    background-color: black;
+    color:whitesmoke;
+}
+.l4{
+    background-color: orange;
+    color:white;
+}
+.l8{
+    background-color: purple;
+    color:whitesmoke;
+}
+.l16{
+    background-color: green;
+    color:whitesmoke;
+}
+.l32{
+    background-color: brown;
+    color:whitesmoke;
+}
+.l64{
+    background-color: limegreen;
+    color:whitesmoke;
+}
+.l128{
+    background-color: blue;
+    color:whitesmoke;
+}
+.l256{
+    background-color: lightblue;
+    color:whitesmoke;
+}
+.l512{
+    background-color: coral;
+    color:whitesmoke;
+}
+.l1024{
+    background-color: pink;
+    color:whitesmoke;
+}
+.l2048{
+    background-color: red;
+    color:whitesmoke;
+}
